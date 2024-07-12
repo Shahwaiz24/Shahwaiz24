@@ -1,6 +1,6 @@
-# Hi I'm Shahwaiz Afzal 
+# Hi I'm Shahwaiz Afzal 💫🤍
 <br>
-About Me:
+✨ About Me:
 <br>
 <br>🔭 I’m currently working on Flutter <br>🌱 I’m currently learning Full Stack Flutter Developer<br>💬 Ask me anything about Flutter & Android App Development<br>⚡ Fun fact I'm Just an Student 
 
