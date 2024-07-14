@@ -1,6 +1,6 @@
 # Hi I'm Shahwaiz Afzal 💫🤵
 <br>
-[![](https://visitcount.itsvg.in/api?id=Shahwaiz24&icon=10&color=1)](https://visitcount.itsvg.in)]
+![](https://visitcount.itsvg.in/api?id=Shahwaiz24&icon=10&color=1)](https://visitcount.itsvg.in)
 <br>
 ✨ About Me:
 <br>
