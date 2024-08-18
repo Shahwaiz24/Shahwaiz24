@@ -5,7 +5,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
-Hey Guys 👋, I’m Shahwaiz Afzal, a MEFN Stack Developer from Pakistan.
+Hey Guys 👋, I’m Shahwaiz Afzal, a Full Stack Flutter Developer from Pakistan.
 <br>I have expertise in Flutter and back-end development and have worked on over 10 projects.⚡️💻<br>
 Currently, I am working towards becoming a Software Engineer.⚡️
 <br>
