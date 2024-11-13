@@ -5,8 +5,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
-Hey Guys 👋, I’m Muhammad Shahwaiz Afzal, a Full Stack Flutter Developer from Pakistan.
-<br>I have expertise in Flutter and back-end development and have worked on over 10 projects.⚡️💻<br>
+Hey Guys 👋, I’m Muhammad Shahwaiz Afzal, a Full Stack Developer from Pakistan.
+<br>I have expertise in Flutter Application, Web Application and back-end development and have worked on over 15 projects.⚡️💻<br>
 Currently, I am working towards becoming a Software Engineer.⚡️
 <br>
 
