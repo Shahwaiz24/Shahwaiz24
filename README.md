@@ -2,8 +2,6 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Shahwaiz24&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 Hey Guys 👋, I'm Muhammad Shahwaiz Afzal, a Full Stack Developer with over 2 years of experience in web and Flutter mobile application development. I specialize in building high-performance applications, having successfully improved app performance by 31% through advanced optimization techniques. My core expertise include Flutter mobile application development, responsive web applications, and robust backend systems - enabling me to create complete solutions that make an impact.
 <br>
