@@ -2,9 +2,7 @@
 
 
 <br>
-Hey Guys 👋, I'm Muhammad Shahwaiz Afzal, a Full Stack Developer with over 2 years of experience in web and Flutter mobile application development. I specialize in building high-performance applications, having successfully improved app performance by 31% through advanced optimization techniques. My core expertise include Flutter mobile application development, responsive web applications, and robust backend systems - enabling me to create complete solutions that make an impact.
-<br>
-Along with creating user interfaces, I also concentrate on delivering user friendly UX design, optimized performance, and clean code architecture. I ensure my code is readable and well-structured, making it easy for even non-technical team members to understand. With over 40 successful projects delivered, I enjoy taking on complex challenges that help me grow and learn. My main focus remains on optimizing application performance and building solutions that deliver real value through smooth functionality and speed.
+Hey Guys 👋, I'm Muhammad Shahwaiz Afzal, a Full Stack Mobile App Developer with 3+ years of hands-on experience in Flutter, Dart, React.js, JavaScript, TypeScript, AWS, Node.js, Express.js, and MongoDB. I’ve successfully built and delivered 40+ mobile applications for B2B, B2C like Amazon, eCommerce, marketplace like Olx, and ride-hailing platforms like InDrive & Uber. Focused on clean code, smooth performance, and user-friendly design. Improved overall app performance by 31% through smart optimization techniques. I create fast, reliable, and real-world ready mobile app solutions.
 <br>
 
 
