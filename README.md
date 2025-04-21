@@ -1,6 +1,5 @@
 # Hi I'm Muhammad Shahwaiz Afzal 🤵
 
-
 <br>
 Hey Guys 👋, I'm Muhammad Shahwaiz Afzal, a Full Stack Mobile App Developer with 3+ years of hands-on experience in Flutter, Dart, React.js, JavaScript, TypeScript, AWS, Node.js, Express.js, and MongoDB. I’ve successfully built and delivered 40+ mobile applications for B2B, B2C like Amazon, eCommerce, marketplace like Olx, and ride-hailing platforms like InDrive & Uber. Focused on clean code, smooth performance, and user-friendly design. Improved overall app performance by 31% through smart optimization techniques. I create fast, reliable, and real-world ready mobile app solutions.
 <br>
