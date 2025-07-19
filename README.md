@@ -1,7 +1,7 @@
 # Hi I'm Muhammad Shahwaiz Afzal 🤵
 
 <br>
-Hey Guys 👋, I'm Muhammad Shahwaiz Afzal, a Senior Full Stack Developer in Web & Mobile App with 4.5+ years of hands-on experience in Flutter, Dart, React.js, Redux, Node.js, Tailwind CSS, Socket.io, Redis, GraphQL, JavaScript, TypeScript, AWS, Express.js, Kafka, RabbitMQ, REST APIs and MongoDB. I’ve successfully built and delivered 40+ Web & mobile applications for B2B, B2C like Amazon, eCommerce, marketplace platform like Olx, and ride hailing platform like InDrive & Uber. Focused on clean code, smooth performance, & user-friendly design. Improved overall Web & App performance by 31% through smart optimization techniques.
+Hey Guys 👋, I'm Shahwaiz Afzal, a Senior Full Stack Developer in Web & Mobile App with 4.5+ years of hands-on experience in Flutter, Dart, React.js, Redux, Node.js, Tailwind CSS, Socket.io, Redis, GraphQL, JavaScript, TypeScript, AWS, Express.js, Kafka, RabbitMQ, REST APIs and MongoDB. I’ve successfully built and delivered 40+ Web & mobile applications for B2B, B2C like Amazon, eCommerce, marketplace platform like Olx, and ride hailing platform like InDrive & Uber. Focused on clean code, smooth performance, & user-friendly design. Improved overall Web & App performance by 31% through smart optimization techniques.
 <br>
 
 
